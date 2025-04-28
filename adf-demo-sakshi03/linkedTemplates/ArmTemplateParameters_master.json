@@ -5,6 +5,21 @@
 		"factoryName": {
 			"value": "adf-demo-sakshi03"
 		},
+		"AdvantureWorkDb_password": {
+			"value": ""
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AdvantureWorkDb_properties_typeProperties_server": {
+			"value": "data03.database.windows.net"
+		},
+		"AdvantureWorkDb_properties_typeProperties_database": {
+			"value": "adfData"
+		},
+		"AdvantureWorkDb_properties_typeProperties_userName": {
+			"value": "CloudSA6c8b355a"
+		},
 		"containerUri": {
 			"value": ""
 		},
